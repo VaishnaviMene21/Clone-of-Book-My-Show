@@ -1,0 +1,108 @@
+.payment-container {
+    margin-top: 5%;
+    margin-left: 30%;
+    max-width: 600px;
+  
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 10px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  }
+  
+  h2 {
+    text-align: center;
+    color: #343a40;
+    margin-bottom: 20px;
+  }
+  
+  p {
+    font-size: 16px;
+    color: #495057;
+    margin: 10px 0;
+  }
+  
+  label {
+    font-size: 16px;
+    color: #495057;
+  }
+  
+  input[type="number"] {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  input[type="number"]:focus {
+    border-color: #007bff;
+    outline: none;
+  }
+  
+  button.pay-button {
+    display: block;
+    width: 100%;
+    padding: 12px;
+    margin-top: 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.2s;
+  }
+  
+  button.pay-button:hover {
+    background-color: #0056b3;
+    transform: translateY(-2px);
+  }
+  
+  button.pay-button:active {
+    transform: translateY(0);
+  }
+  
+  p *ngIf {
+    color: #dc3545; 
+  }
+  
+  .qr-container {
+    position: fixed;          
+    top: 50%;               
+    left: 50%;               
+    transform: translate(-50%, -50%); 
+    background-color: white;  
+    border-radius: 8px;    
+    padding: 20px;          
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3); 
+    z-index: 1000;          
+    width: 300px;           
+    text-align: center;    
+  }
+  
+  .qr-container h3 {
+    margin: 0 0 10px;
+  }
+  
+  .movie-info {
+    margin-top: 10px; 
+  }
+
+  .go-back-button {
+    margin-top: 20px;        
+    padding: 10px 20px;     
+    background-color: #007bff; 
+    color: white;            
+    border: none;           
+    border-radius: 5px;     
+    cursor: pointer;        
+    font-size: 16px;         
+    transition: background-color 0.2s ease;
+  }
+  
+  .go-back-button:hover {
+    background-color: #0056b3;
+  }
+  
+ 

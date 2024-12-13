@@ -1,0 +1,22 @@
+<div class="event-list-container">
+    <h1>Events in {{ selectedLocation }}</h1>
+  
+    <div *ngIf="events.length > 0; else noEvents">
+      <div class="event-card" *ngFor="let event of events">
+        <img [src]="event.image" alt="{{ event.title }}" />
+        <h3>{{ event.title }}</h3>
+        <p>Time: {{ event.time }}</p>
+        <p>Genre: {{ event.genre }}</p>
+        <button (click)="openPopup(event)">Book Ticket</button>
+      </div>
+    </div>
+
+    
+  
+    <ng-template #noEvents>
+      <p>No events available for this location.</p>
+    </ng-template>
+  
+    <button (click)="goBack()" class="change-location-button">Change Location</button>
+  </div>
+ 

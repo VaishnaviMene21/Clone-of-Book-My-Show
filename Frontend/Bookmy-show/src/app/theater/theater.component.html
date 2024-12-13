@@ -1,0 +1,79 @@
+<div class="theater-selection">
+    <h2>Select Theater for {{ selectedMovies }}</h2>
+    <div class="theater-list">
+      <div class="theater-card" *ngFor="let theater of theaters">
+        <h3 class="theater-name">{{ theater.name }}</h3>
+        <div class="timings">
+          <span *ngFor="let timing of theater.timings">
+            <button class="timing-button" (click)="selectShowtime(theater.name, timing)">
+              {{ timing }}
+            </button>
+          </span>
+        </div>
+      </div>
+    </div>
+  
+
+<!-- 
+<div class="popup" *ngIf="showPopup">
+    <div class="popup-content">
+      <span class="close" (click)="closePopup()">&times;</span>
+      <h3>Select Number of Seats</h3>
+      <div>
+        <label *ngFor="let seatCount of [1, 2, 3, 4, 5]">
+          <input type="radio" name="seats" (click)="selectedSeatsCount = seatCount" /> {{ seatCount }}
+        </label>
+      </div>
+
+      <div *ngIf="selectedSeatsCount > 0">
+        <h4>Available Seats</h4>
+        <div class="seat-grid">
+          <div 
+            class="seat" 
+            *ngFor="let seat of seats; let i = index" 
+            [class.selected]="seats[i]" 
+            (click)="toggleSeatSelection(i)"
+          >
+            {{ i + 1 }}
+          </div>
+        </div>
+        <p>Total Price: {{ calculateTotalPrice() }} Rs</p>
+        <button (click)="pay()" class="pay-button">Pay</button>
+      </div>
+    </div>
+  </div>
+</div> -->
+ 
+<div class="popup" *ngIf="showPopup">
+    <div class="popup-content">
+        <span class="close" (click)="closePopup()">&times;</span>
+        <h3>Select Number of Seats</h3>
+
+        <div *ngIf="seatSelectionVisible">
+            <label *ngFor="let seatCount of [1, 2, 3, 4, 5]">
+                <input 
+                    type="radio" 
+                    name="seats" 
+                    (click)="selectSeatCount(seatCount)" 
+                /> 
+                {{ seatCount }}
+            </label>
+        </div>
+
+         <div *ngIf="!seatSelectionVisible && selectedSeatsCount > 0">
+            <h4>Available Seats</h4>
+            <div class="seat-grid">
+                <div 
+                    class="seat" 
+                    *ngFor="let seat of seats; let i = index" 
+                    [class.selected]="seats[i]" 
+                    (click)="toggleSeatSelection(i)"
+                >
+                    {{ i + 1 }}
+                </div>
+            </div>
+            <p>Total Price: {{ calculateTotalPrice() }} Rs</p>
+            <button (click)="pay()" class="pay-button">Pay</button>
+        </div>
+    </div>
+</div>  

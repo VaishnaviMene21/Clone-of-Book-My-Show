@@ -1,0 +1,67 @@
+<div  *ngIf="!showQRcode" class="payment-container" >
+    <h2>Payment Details</h2>
+    <p>Seats Selected: {{ selectedSeatsCount }}</p>
+    <p>Movie Name  {{movieName}}</p>
+    <p>Ticket Price: 250 Rs</p>
+    
+    <p>Grand Total: {{ grandTotal }} Rs</p>
+    
+    <!-- <div>
+      <label for="discount">Discount: </label> -->
+      <!-- <button (click)="applyDiscount()">Apply 100% Discount</button>
+      <input type="number" id="discount" [(ngModel)]="discount" (input)="calculateTotal()"/>
+      <p *ngIf="discount > 100">Maximum discount is 100 Rs.</p>
+    </div> --> 
+  
+    <!-- <p>Total Amount: {{ totalAmount }} Rs</p> -->
+    
+    <button (click)="makePayment()" class="pay-button">Pay</button>
+  </div>
+
+  <!-- <div *ngIf="paymentSuccessful" class="qr-container">
+    <h3>Your Ticket</h3>
+    <ngx-qrcode [qrc-value]="qrData" [qrc-class]="'qrcode'"></ngx-qrcode>
+    <p>Movie: {{ movieName }}</p>
+    <p>Time: {{ movieTime }}</p>
+  </div> -->
+
+  
+  
+
+    <!-- <ngx-qrcode 
+      [qrc-value]="qrData" 
+      [qrc-class]="'qrcode'" 
+      [qrc-error-correction-level]="'M'" 
+      [qrc-element-type]="'img'" 
+      [qrc-width]="256" 
+      [qrc-height]="256">
+    </ngx-qrcode> -->
+
+    <!-- <qrcode [qrdata]="qrData" [width]="256"></qrcode>
+    <p>{{ qrData }}</p>
+
+  </div> -->
+
+    <!-- <div *ngIf="paymentSuccessful" class="qr-container">
+        <h3>Your Ticket</h3>
+        <ngx-qrcode [qrc-value]="qrData" [qrc-class]="'qrcode'" [qrc-error-correction-level]="'M'" [qrc-element-type]="'img'" [qrc-width]="256" [qrc-height]="256"></ngx-qrcode>
+        
+        <p>{{ qrData }}</p>
+      </div> -->
+  
+      <div *ngIf="showQRcode" class="qr-container">
+        <h3>Your QR Code</h3>
+        <qrcode 
+          [qrdata]="qrData" 
+          [width]="qrCodeOptions.width" 
+         
+          [errorCorrectionLevel]="qrCodeOptions.errorCorrectionLevel">
+        </qrcode>
+
+        <div class="movie-info">
+            <h4>Movie Name: {{ movieName }}</h4>
+            <p>Show Time: {{ movieTime }}</p>
+          </div>
+
+          <button class="go-back-button" (click)="goBack()">Go Back </button>
+      </div>

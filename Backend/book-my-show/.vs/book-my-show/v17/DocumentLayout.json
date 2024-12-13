@@ -1,0 +1,297 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VaishnaviSantoshMene\\source\\repos\\book-my-show\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{995C3982-04B2-4820-9898-21BC5350E752}|book-my-show\\book-my-show.csproj|c:\\users\\vaishnavisantoshmene\\source\\repos\\book-my-show\\book-my-show\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{995C3982-04B2-4820-9898-21BC5350E752}|book-my-show\\book-my-show.csproj|solutionrelative:book-my-show\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{995C3982-04B2-4820-9898-21BC5350E752}|book-my-show\\book-my-show.csproj|c:\\users\\vaishnavisantoshmene\\source\\repos\\book-my-show\\book-my-show\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{995C3982-04B2-4820-9898-21BC5350E752}|book-my-show\\book-my-show.csproj|solutionrelative:book-my-show\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{995C3982-04B2-4820-9898-21BC5350E752}|book-my-show\\book-my-show.csproj|c:\\users\\vaishnavisantoshmene\\source\\repos\\book-my-show\\book-my-show\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{995C3982-04B2-4820-9898-21BC5350E752}|book-my-show\\book-my-show.csproj|solutionrelative:book-my-show\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{995C3982-04B2-4820-9898-21BC5350E752}|book-my-show\\book-my-show.csproj|c:\\users\\vaishnavisantoshmene\\source\\repos\\book-my-show\\book-my-show\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{995C3982-04B2-4820-9898-21BC5350E752}|book-my-show\\book-my-show.csproj|solutionrelative:book-my-show\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{995C3982-04B2-4820-9898-21BC5350E752}|book-my-show\\book-my-show.csproj|c:\\users\\vaishnavisantoshmene\\source\\repos\\book-my-show\\book-my-show\\repositories\\imoviesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{995C3982-04B2-4820-9898-21BC5350E752}|book-my-show\\book-my-show.csproj|solutionrelative:book-my-show\\repositories\\imoviesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{995C3982-04B2-4820-9898-21BC5350E752}|book-my-show\\book-my-show.csproj|c:\\users\\vaishnavisantoshmene\\source\\repos\\book-my-show\\book-my-show\\repositories\\moviesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{995C3982-04B2-4820-9898-21BC5350E752}|book-my-show\\book-my-show.csproj|solutionrelative:book-my-show\\repositories\\moviesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{995C3982-04B2-4820-9898-21BC5350E752}|book-my-show\\book-my-show.csproj|c:\\users\\vaishnavisantoshmene\\source\\repos\\book-my-show\\book-my-show\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{995C3982-04B2-4820-9898-21BC5350E752}|book-my-show\\book-my-show.csproj|solutionrelative:book-my-show\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{995C3982-04B2-4820-9898-21BC5350E752}|book-my-show\\book-my-show.csproj|c:\\users\\vaishnavisantoshmene\\source\\repos\\book-my-show\\book-my-show\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{995C3982-04B2-4820-9898-21BC5350E752}|book-my-show\\book-my-show.csproj|solutionrelative:book-my-show\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{995C3982-04B2-4820-9898-21BC5350E752}|book-my-show\\book-my-show.csproj|c:\\users\\vaishnavisantoshmene\\source\\repos\\book-my-show\\book-my-show\\encryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{995C3982-04B2-4820-9898-21BC5350E752}|book-my-show\\book-my-show.csproj|solutionrelative:book-my-show\\encryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{995C3982-04B2-4820-9898-21BC5350E752}|book-my-show\\book-my-show.csproj|c:\\users\\vaishnavisantoshmene\\source\\repos\\book-my-show\\book-my-show\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{995C3982-04B2-4820-9898-21BC5350E752}|book-my-show\\book-my-show.csproj|solutionrelative:book-my-show\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{995C3982-04B2-4820-9898-21BC5350E752}|book-my-show\\book-my-show.csproj|c:\\users\\vaishnavisantoshmene\\source\\repos\\book-my-show\\book-my-show\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{995C3982-04B2-4820-9898-21BC5350E752}|book-my-show\\book-my-show.csproj|solutionrelative:book-my-show\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{995C3982-04B2-4820-9898-21BC5350E752}|book-my-show\\book-my-show.csproj|c:\\users\\vaishnavisantoshmene\\source\\repos\\book-my-show\\book-my-show\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{995C3982-04B2-4820-9898-21BC5350E752}|book-my-show\\book-my-show.csproj|solutionrelative:book-my-show\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{995C3982-04B2-4820-9898-21BC5350E752}|book-my-show\\book-my-show.csproj|c:\\users\\vaishnavisantoshmene\\source\\repos\\book-my-show\\book-my-show\\model\\paymentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{995C3982-04B2-4820-9898-21BC5350E752}|book-my-show\\book-my-show.csproj|solutionrelative:book-my-show\\model\\paymentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{995C3982-04B2-4820-9898-21BC5350E752}|book-my-show\\book-my-show.csproj|c:\\users\\vaishnavisantoshmene\\source\\repos\\book-my-show\\book-my-show\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{995C3982-04B2-4820-9898-21BC5350E752}|book-my-show\\book-my-show.csproj|solutionrelative:book-my-show\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{995C3982-04B2-4820-9898-21BC5350E752}|book-my-show\\book-my-show.csproj|c:\\users\\vaishnavisantoshmene\\source\\repos\\book-my-show\\book-my-show\\model\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{995C3982-04B2-4820-9898-21BC5350E752}|book-my-show\\book-my-show.csproj|solutionrelative:book-my-show\\model\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{995C3982-04B2-4820-9898-21BC5350E752}|book-my-show\\book-my-show.csproj|c:\\users\\vaishnavisantoshmene\\source\\repos\\book-my-show\\book-my-show\\book-my-show.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{995C3982-04B2-4820-9898-21BC5350E752}|book-my-show\\book-my-show.csproj|solutionrelative:book-my-show\\book-my-show.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{995C3982-04B2-4820-9898-21BC5350E752}|book-my-show\\book-my-show.csproj|c:\\users\\vaishnavisantoshmene\\source\\repos\\book-my-show\\book-my-show\\migrations\\20241015143443_addpaymentdetailtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{995C3982-04B2-4820-9898-21BC5350E752}|book-my-show\\book-my-show.csproj|solutionrelative:book-my-show\\migrations\\20241015143443_addpaymentdetailtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\VaishnaviSantoshMene\\source\\repos\\book-my-show\\book-my-show\\EmailService.cs",
+              "RelativeDocumentMoniker": "book-my-show\\EmailService.cs",
+              "ToolTip": "C:\\Users\\VaishnaviSantoshMene\\source\\repos\\book-my-show\\book-my-show\\EmailService.cs",
+              "RelativeToolTip": "book-my-show\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T09:12:45.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\VaishnaviSantoshMene\\source\\repos\\book-my-show\\book-my-show\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "book-my-show\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\VaishnaviSantoshMene\\source\\repos\\book-my-show\\book-my-show\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "book-my-show\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAMsAAAAAAAAAAAAuwOMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T05:11:11.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VaishnaviSantoshMene\\source\\repos\\book-my-show\\book-my-show\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "book-my-show\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\VaishnaviSantoshMene\\source\\repos\\book-my-show\\book-my-show\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "book-my-show\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAA3wJQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T08:22:10.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IMoviesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VaishnaviSantoshMene\\source\\repos\\book-my-show\\book-my-show\\Repositories\\IMoviesRepository.cs",
+              "RelativeDocumentMoniker": "book-my-show\\Repositories\\IMoviesRepository.cs",
+              "ToolTip": "C:\\Users\\VaishnaviSantoshMene\\source\\repos\\book-my-show\\book-my-show\\Repositories\\IMoviesRepository.cs",
+              "RelativeToolTip": "book-my-show\\Repositories\\IMoviesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T05:51:38.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VaishnaviSantoshMene\\source\\repos\\book-my-show\\book-my-show\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "book-my-show\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\VaishnaviSantoshMene\\source\\repos\\book-my-show\\book-my-show\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "book-my-show\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T08:12:10.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\VaishnaviSantoshMene\\source\\repos\\book-my-show\\book-my-show\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "book-my-show\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\VaishnaviSantoshMene\\source\\repos\\book-my-show\\book-my-show\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "book-my-show\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T07:30:32.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MoviesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VaishnaviSantoshMene\\source\\repos\\book-my-show\\book-my-show\\Repositories\\MoviesRepository.cs",
+              "RelativeDocumentMoniker": "book-my-show\\Repositories\\MoviesRepository.cs",
+              "ToolTip": "C:\\Users\\VaishnaviSantoshMene\\source\\repos\\book-my-show\\book-my-show\\Repositories\\MoviesRepository.cs",
+              "RelativeToolTip": "book-my-show\\Repositories\\MoviesRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwDAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T05:56:54.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VaishnaviSantoshMene\\source\\repos\\book-my-show\\book-my-show\\Program.cs",
+              "RelativeDocumentMoniker": "book-my-show\\Program.cs",
+              "ToolTip": "C:\\Users\\VaishnaviSantoshMene\\source\\repos\\book-my-show\\book-my-show\\Program.cs",
+              "RelativeToolTip": "book-my-show\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T05:08:55.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\VaishnaviSantoshMene\\source\\repos\\book-my-show\\book-my-show\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "book-my-show\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\VaishnaviSantoshMene\\source\\repos\\book-my-show\\book-my-show\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "book-my-show\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T05:02:32.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EncryptionService.cs",
+              "DocumentMoniker": "C:\\Users\\VaishnaviSantoshMene\\source\\repos\\book-my-show\\book-my-show\\EncryptionService.cs",
+              "RelativeDocumentMoniker": "book-my-show\\EncryptionService.cs",
+              "ToolTip": "C:\\Users\\VaishnaviSantoshMene\\source\\repos\\book-my-show\\book-my-show\\EncryptionService.cs",
+              "RelativeToolTip": "book-my-show\\EncryptionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:14:39.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\VaishnaviSantoshMene\\source\\repos\\book-my-show\\book-my-show\\appsettings.json",
+              "RelativeDocumentMoniker": "book-my-show\\appsettings.json",
+              "ToolTip": "C:\\Users\\VaishnaviSantoshMene\\source\\repos\\book-my-show\\book-my-show\\appsettings.json",
+              "RelativeToolTip": "book-my-show\\appsettings.json",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-14T05:07:22.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\VaishnaviSantoshMene\\source\\repos\\book-my-show\\book-my-show\\Model\\User.cs",
+              "RelativeDocumentMoniker": "book-my-show\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\VaishnaviSantoshMene\\source\\repos\\book-my-show\\book-my-show\\Model\\User.cs",
+              "RelativeToolTip": "book-my-show\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T04:59:55.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\VaishnaviSantoshMene\\source\\repos\\book-my-show\\book-my-show\\Model\\Movie.cs",
+              "RelativeDocumentMoniker": "book-my-show\\Model\\Movie.cs",
+              "ToolTip": "C:\\Users\\VaishnaviSantoshMene\\source\\repos\\book-my-show\\book-my-show\\Model\\Movie.cs",
+              "RelativeToolTip": "book-my-show\\Model\\Movie.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA6wAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T07:15:18.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\VaishnaviSantoshMene\\source\\repos\\book-my-show\\book-my-show\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "book-my-show\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\VaishnaviSantoshMene\\source\\repos\\book-my-show\\book-my-show\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "book-my-show\\Controllers\\PaymentController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwB8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:29:52.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PaymentDetail.cs",
+              "DocumentMoniker": "C:\\Users\\VaishnaviSantoshMene\\source\\repos\\book-my-show\\book-my-show\\Model\\PaymentDetail.cs",
+              "RelativeDocumentMoniker": "book-my-show\\Model\\PaymentDetail.cs",
+              "ToolTip": "C:\\Users\\VaishnaviSantoshMene\\source\\repos\\book-my-show\\book-my-show\\Model\\PaymentDetail.cs",
+              "RelativeToolTip": "book-my-show\\Model\\PaymentDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:27:46.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "book-my-show.csproj",
+              "DocumentMoniker": "C:\\Users\\VaishnaviSantoshMene\\source\\repos\\book-my-show\\book-my-show\\book-my-show.csproj",
+              "RelativeDocumentMoniker": "book-my-show\\book-my-show.csproj",
+              "ToolTip": "C:\\Users\\VaishnaviSantoshMene\\source\\repos\\book-my-show\\book-my-show\\book-my-show.csproj",
+              "RelativeToolTip": "book-my-show\\book-my-show.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-22T08:14:04.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20241015143443_AddPaymentDetailTable.cs",
+              "DocumentMoniker": "C:\\Users\\VaishnaviSantoshMene\\source\\repos\\book-my-show\\book-my-show\\Migrations\\20241015143443_AddPaymentDetailTable.cs",
+              "RelativeDocumentMoniker": "book-my-show\\Migrations\\20241015143443_AddPaymentDetailTable.cs",
+              "ToolTip": "C:\\Users\\VaishnaviSantoshMene\\source\\repos\\book-my-show\\book-my-show\\Migrations\\20241015143443_AddPaymentDetailTable.cs",
+              "RelativeToolTip": "book-my-show\\Migrations\\20241015143443_AddPaymentDetailTable.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:34:43.245Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

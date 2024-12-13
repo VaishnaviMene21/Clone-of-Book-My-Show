@@ -1,0 +1,39 @@
+<!-- <form [formGroup] = "loginForm" (ngSubmit) = "onSubmit()"class="box" action="" method="POST" target="_self">
+    <h1>login</h1>
+<div>
+    <input type="text" name="username" id="username" placeholder="Username" autocomplete="off" formControlName = "Username">
+    <div *ngIf="loginForm.get('Username')?.invalid && loginForm.get('Username')?.touched">
+        <small *ngIf="loginForm.get('Username')?.errors?.required">Username is required.</small>
+    </div>
+</div>
+<div>
+    <input type="password" name="pass" id="pass" placeholder="Password" autocomplete="off" formControlName = "Password">
+     <input type="submit" id="submit" value="login"> -->
+    <!-- <div *ngIf="loginForm.get('Password')?.invalid && loginForm.get('Password')?.touched">
+        <small *ngIf="loginForm.get('Password')?.errors?.required">Password is required.</small>
+        <small *ngIf="loginForm.get('Password')?.errors?.pattern">Password must be at least 8 characters long, contain at least 1 number, and 1 special character.</small>
+</div>
+<button type="submit" [disabled]="loginForm.invalid">Login</button>
+  </form> --> 
+
+
+  <form [formGroup]="loginForm" (ngSubmit)="onSubmit()" class="box" action="" method="POST" target="_self">
+    <h3>Registration</h3>
+    <div>
+        <input type="text" name="username" id="username" placeholder="Username" autocomplete="off" formControlName="username">
+        <div *ngIf="loginForm.get('username')?.invalid && loginForm.get('username')?.touched">
+            <small *ngIf="loginForm.get('username')?.errors?.['required']">Username is required.</small> <!-- Use bracket notation -->
+        </div>
+    </div>
+    <div>
+        <input type="password" name="pass" id="pass" placeholder="Password" autocomplete="off" formControlName="password">
+        <div *ngIf="loginForm.get('password')?.invalid && loginForm.get('password')?.touched">
+            <small *ngIf="loginForm.get('password')?.errors?.['required']">Password is required.</small> 
+            <small *ngIf="loginForm.get('password')?.errors?.['pattern']">Password must be at least 8 characters long, contain at least 1 number, and 1 special character.</small> 
+        </div>
+    </div>
+    <button type="submit" [disabled]="loginForm.invalid" id="submit">Login</button>
+      <!-- <bu> type="submit" id="submit"  [disabled]="loginForm.invalid" routerLink = "/location">  --> -->
+</form>
+
+
